@@ -6,3 +6,11 @@ C:\Users\awsed\source\repos\homework kimdongrok\homework kimdongrok\obj\Debug\ho
 C:\Users\awsed\source\repos\homework kimdongrok\homework kimdongrok\obj\Debug\homework kimdongrok.csproj.CoreCompileInputs.cache
 C:\Users\awsed\source\repos\homework kimdongrok\homework kimdongrok\obj\Debug\homework kimdongrok.exe
 C:\Users\awsed\source\repos\homework kimdongrok\homework kimdongrok\obj\Debug\homework kimdongrok.pdb
+C:\Users\awsed\OneDrive\바탕 화면\homework\homework kimdongrok\homework kimdongrok\bin\Debug\homework kimdongrok.exe.config
+C:\Users\awsed\OneDrive\바탕 화면\homework\homework kimdongrok\homework kimdongrok\bin\Debug\homework kimdongrok.exe
+C:\Users\awsed\OneDrive\바탕 화면\homework\homework kimdongrok\homework kimdongrok\bin\Debug\homework kimdongrok.pdb
+C:\Users\awsed\OneDrive\바탕 화면\homework\homework kimdongrok\homework kimdongrok\obj\Debug\homework kimdongrok.csproj.AssemblyReference.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework\homework kimdongrok\homework kimdongrok\obj\Debug\homework kimdongrok.csproj.SuggestedBindingRedirects.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework\homework kimdongrok\homework kimdongrok\obj\Debug\homework kimdongrok.csproj.CoreCompileInputs.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework\homework kimdongrok\homework kimdongrok\obj\Debug\homework kimdongrok.exe
+C:\Users\awsed\OneDrive\바탕 화면\homework\homework kimdongrok\homework kimdongrok\obj\Debug\homework kimdongrok.pdb
