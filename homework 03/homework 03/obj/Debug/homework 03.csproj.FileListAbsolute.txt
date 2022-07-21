@@ -1,0 +1,8 @@
+C:\Users\awsed\OneDrive\바탕 화면\homework 03\homework 03\bin\Debug\homework 03.exe.config
+C:\Users\awsed\OneDrive\바탕 화면\homework 03\homework 03\bin\Debug\homework 03.exe
+C:\Users\awsed\OneDrive\바탕 화면\homework 03\homework 03\bin\Debug\homework 03.pdb
+C:\Users\awsed\OneDrive\바탕 화면\homework 03\homework 03\obj\Debug\homework 03.csproj.AssemblyReference.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework 03\homework 03\obj\Debug\homework 03.csproj.SuggestedBindingRedirects.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework 03\homework 03\obj\Debug\homework 03.csproj.CoreCompileInputs.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework 03\homework 03\obj\Debug\homework 03.exe
+C:\Users\awsed\OneDrive\바탕 화면\homework 03\homework 03\obj\Debug\homework 03.pdb
