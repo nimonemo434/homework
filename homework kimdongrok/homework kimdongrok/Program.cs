@@ -1,34 +1,30 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace homework_kimdongrok
+namespace homework0721
 {
-    public class HelloWorld
+    internal class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-            // 1
-            {
-                Console.Write("Hello world");
-                Console.ReadLine();
-            }
+            string a;
 
-            // 2
-            {
-                string s1;
-                string s2;
-                string s3;
+            Console.Write("문자를 입력해주세요: ");
+            a = Console.ReadLine();
 
-                Console.Write("input s1 : ");
-                s1 = Console.ReadLine();
-                System.Console.Write("input s2 : ");
-                s2 = Console.ReadLine();
+            int b = int.Parse(a);
+            Console.WriteLine("입력하신 문자의 정수형 값은: " + b);
 
-                Console.WriteLine($"the string is \n{s1}, {s2}");
-                Console.WriteLine("the string is \n{0}, {1}", s1, s2);
-                Console.WriteLine("the string is \n{1}, {0}", s1, s2);
-                Console.WriteLine("the string is" + "\n" + "{0}" + ", " + "{1}", s1, s2);
-                Console.ReadKey();
-            }
+            float c = (float)b;
+            Console.WriteLine("입력하신 문자의 실수형 값은: " + c);
+
+            string d = c.ToString();
+            Console.WriteLine("입력하신 문자는 " + d + "입니다.");
+
+            Console.ReadKey();
+        }
         }
     }
-}
