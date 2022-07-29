@@ -1,0 +1,16 @@
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.29 food\2022.07.29 food\obj\Debug\2022.07.29 food.csproj.AssemblyReference.cache
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.29 food\2022.07.29 food\obj\Debug\2022.07.29 food.csproj.SuggestedBindingRedirects.cache
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.29 food\2022.07.29 food\obj\Debug\2022.07.29 food.csproj.CoreCompileInputs.cache
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.29 food\2022.07.29 food\bin\Debug\2022.07.29 food.exe.config
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.29 food\2022.07.29 food\bin\Debug\2022.07.29 food.exe
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.29 food\2022.07.29 food\bin\Debug\2022.07.29 food.pdb
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.29 food\2022.07.29 food\obj\Debug\2022.07.29 food.exe
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.29 food\2022.07.29 food\obj\Debug\2022.07.29 food.pdb
+C:\Users\awsed\OneDrive\바탕 화면\숙제\2022.07.29\2022.07.29 food\2022.07.29 food\bin\Debug\2022.07.29 food.exe.config
+C:\Users\awsed\OneDrive\바탕 화면\숙제\2022.07.29\2022.07.29 food\2022.07.29 food\bin\Debug\2022.07.29 food.exe
+C:\Users\awsed\OneDrive\바탕 화면\숙제\2022.07.29\2022.07.29 food\2022.07.29 food\bin\Debug\2022.07.29 food.pdb
+C:\Users\awsed\OneDrive\바탕 화면\숙제\2022.07.29\2022.07.29 food\2022.07.29 food\obj\Debug\2022.07.29 food.csproj.AssemblyReference.cache
+C:\Users\awsed\OneDrive\바탕 화면\숙제\2022.07.29\2022.07.29 food\2022.07.29 food\obj\Debug\2022.07.29 food.csproj.SuggestedBindingRedirects.cache
+C:\Users\awsed\OneDrive\바탕 화면\숙제\2022.07.29\2022.07.29 food\2022.07.29 food\obj\Debug\2022.07.29 food.csproj.CoreCompileInputs.cache
+C:\Users\awsed\OneDrive\바탕 화면\숙제\2022.07.29\2022.07.29 food\2022.07.29 food\obj\Debug\2022.07.29 food.exe
+C:\Users\awsed\OneDrive\바탕 화면\숙제\2022.07.29\2022.07.29 food\2022.07.29 food\obj\Debug\2022.07.29 food.pdb
