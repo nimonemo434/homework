@@ -1,0 +1,8 @@
+C:\Users\awsed\OneDrive\바탕 화면\숙제\homeworkalpha\homeworkalpha\bin\Debug\homeworkalpha.exe.config
+C:\Users\awsed\OneDrive\바탕 화면\숙제\homeworkalpha\homeworkalpha\bin\Debug\homeworkalpha.exe
+C:\Users\awsed\OneDrive\바탕 화면\숙제\homeworkalpha\homeworkalpha\bin\Debug\homeworkalpha.pdb
+C:\Users\awsed\OneDrive\바탕 화면\숙제\homeworkalpha\homeworkalpha\obj\Debug\homeworkalpha.csproj.AssemblyReference.cache
+C:\Users\awsed\OneDrive\바탕 화면\숙제\homeworkalpha\homeworkalpha\obj\Debug\homeworkalpha.csproj.SuggestedBindingRedirects.cache
+C:\Users\awsed\OneDrive\바탕 화면\숙제\homeworkalpha\homeworkalpha\obj\Debug\homeworkalpha.csproj.CoreCompileInputs.cache
+C:\Users\awsed\OneDrive\바탕 화면\숙제\homeworkalpha\homeworkalpha\obj\Debug\homeworkalpha.exe
+C:\Users\awsed\OneDrive\바탕 화면\숙제\homeworkalpha\homeworkalpha\obj\Debug\homeworkalpha.pdb
