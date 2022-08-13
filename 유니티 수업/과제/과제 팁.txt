@@ -1,0 +1,38 @@
+0. 편하게 최상단에
+using static System.Console; 을 적고 시작하세요
+System.Console 을 스킵할 수 있습니다.
+
+1. 방향키 입력 방식
+                ConsoleKeyInfo key = Console.ReadKey(true);
+                switch (key.Key)
+                {
+                    case ConsoleKey.UpArrow:
+                        break;
+                    case ConsoleKey.DownArrow:
+                        break;
+                    case ConsoleKey.Enter:
+                        break;
+                }
+
+2. 원하는 위치에 커서 두기
+   SetCursorPosition( x 좌표 , y 좌표 );
+
+3. 화면 전체 지우기
+   Clear();
+
+4. 글자 꾸미기
+한번 바꾸면 이후로 모두 적용이 됩니다.
+때문에, 원하지 않는다면 원래대로 돌려놔야 합니다.
+   4-1. 글자 바탕색(원래 검은색이기 때문에 다시 검은색으로 돌려놓아야함)
+               BackgroundColor = ConsoleColor.Yellow;
+               Write("★☆");
+               BackgroundColor = ConsoleColor.Black;
+
+   4-2. 글자 색 바꾸기
+      Console.ForegroundColor = ConsoleColor.Blue;
+                   Write("★☆");
+                  Console.ForegroundColor = ConsoleColor.White;
+
+5. 잠시 대기하기
+1000 이 1초
+   Thread.Sleep(1000); //1초 대기. 1초후에 뒤에 내용이 실행됨

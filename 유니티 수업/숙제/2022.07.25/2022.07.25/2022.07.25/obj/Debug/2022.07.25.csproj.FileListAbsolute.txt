@@ -1,0 +1,8 @@
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.25\2022.07.25\bin\Debug\2022.07.25.exe.config
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.25\2022.07.25\bin\Debug\2022.07.25.exe
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.25\2022.07.25\bin\Debug\2022.07.25.pdb
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.25\2022.07.25\obj\Debug\2022.07.25.csproj.AssemblyReference.cache
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.25\2022.07.25\obj\Debug\2022.07.25.csproj.SuggestedBindingRedirects.cache
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.25\2022.07.25\obj\Debug\2022.07.25.csproj.CoreCompileInputs.cache
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.25\2022.07.25\obj\Debug\2022.07.25.exe
+C:\Users\awsed\OneDrive\바탕 화면\2022.07.25\2022.07.25\obj\Debug\2022.07.25.pdb

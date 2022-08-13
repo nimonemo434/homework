@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\2022.07.24\2022.07.24\obj\Debug\2022.07.24.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\2022.07.24\2022.07.24\obj\Debug\2022.07.24.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2022.07.24\2022.07.24\bin\Debug\2022.07.24.exe.config
+C:\Users\admin\Desktop\2022.07.24\2022.07.24\bin\Debug\2022.07.24.exe
+C:\Users\admin\Desktop\2022.07.24\2022.07.24\bin\Debug\2022.07.24.pdb
+C:\Users\admin\Desktop\2022.07.24\2022.07.24\obj\Debug\2022.07.24.exe
+C:\Users\admin\Desktop\2022.07.24\2022.07.24\obj\Debug\2022.07.24.pdb

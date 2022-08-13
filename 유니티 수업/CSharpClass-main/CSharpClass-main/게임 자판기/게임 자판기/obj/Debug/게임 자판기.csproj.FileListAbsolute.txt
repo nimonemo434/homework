@@ -1,0 +1,13 @@
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\게임 자판기\게임 자판기\bin\Debug\게임 자판기.exe.config
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\게임 자판기\게임 자판기\bin\Debug\게임 자판기.exe
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\게임 자판기\게임 자판기\bin\Debug\게임 자판기.pdb
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\게임 자판기\게임 자판기\obj\Debug\게임 자판기.csprojAssemblyReference.cache
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\게임 자판기\게임 자판기\obj\Debug\게임 자판기.csproj.CoreCompileInputs.cache
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\게임 자판기\게임 자판기\obj\Debug\게임 자판기.exe
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\게임 자판기\게임 자판기\obj\Debug\게임 자판기.pdb
+C:\Users\potap\Desktop\Study\학교\Unity\C#\게임 자판기\게임 자판기\bin\Debug\게임 자판기.exe.config
+C:\Users\potap\Desktop\Study\학교\Unity\C#\게임 자판기\게임 자판기\bin\Debug\게임 자판기.exe
+C:\Users\potap\Desktop\Study\학교\Unity\C#\게임 자판기\게임 자판기\bin\Debug\게임 자판기.pdb
+C:\Users\potap\Desktop\Study\학교\Unity\C#\게임 자판기\게임 자판기\obj\Debug\게임 자판기.csproj.CoreCompileInputs.cache
+C:\Users\potap\Desktop\Study\학교\Unity\C#\게임 자판기\게임 자판기\obj\Debug\게임 자판기.exe
+C:\Users\potap\Desktop\Study\학교\Unity\C#\게임 자판기\게임 자판기\obj\Debug\게임 자판기.pdb

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\homwork 07 24(2)\homwork 07 24(2)\obj\Debug\homwork 07 24(2).csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\homwork 07 24(2)\homwork 07 24(2)\obj\Debug\homwork 07 24(2).csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\homwork 07 24(2)\homwork 07 24(2)\bin\Debug\homwork 07 24(2).exe.config
+C:\Users\admin\source\repos\homwork 07 24(2)\homwork 07 24(2)\bin\Debug\homwork 07 24(2).exe
+C:\Users\admin\source\repos\homwork 07 24(2)\homwork 07 24(2)\bin\Debug\homwork 07 24(2).pdb
+C:\Users\admin\source\repos\homwork 07 24(2)\homwork 07 24(2)\obj\Debug\homwork 07 24(2).exe
+C:\Users\admin\source\repos\homwork 07 24(2)\homwork 07 24(2)\obj\Debug\homwork 07 24(2).pdb
+C:\Users\admin\Desktop\homwork 07 24(2)\homwork 07 24(2)\bin\Debug\homwork 07 24(2).exe.config
+C:\Users\admin\Desktop\homwork 07 24(2)\homwork 07 24(2)\bin\Debug\homwork 07 24(2).exe
+C:\Users\admin\Desktop\homwork 07 24(2)\homwork 07 24(2)\bin\Debug\homwork 07 24(2).pdb
+C:\Users\admin\Desktop\homwork 07 24(2)\homwork 07 24(2)\obj\Debug\homwork 07 24(2).csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\homwork 07 24(2)\homwork 07 24(2)\obj\Debug\homwork 07 24(2).csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\homwork 07 24(2)\homwork 07 24(2)\obj\Debug\homwork 07 24(2).exe
+C:\Users\admin\Desktop\homwork 07 24(2)\homwork 07 24(2)\obj\Debug\homwork 07 24(2).pdb

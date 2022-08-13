@@ -1,0 +1,94 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using static System.Console;
+
+namespace test
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string number1 = "";
+            string number2 = "";
+            string type = "";
+            float result = 0;
+            string answer = "";
+
+            //1. 입력받을 첫번째 인수 받기
+            Write("input : ");
+            number1 = ReadLine();
+
+            //반복문 시작
+            while (true)
+            {
+                //타입 정의(+, -, /, *)
+                Write("type : ");
+                type = ReadLine();
+
+                //2. 입력받을 두번째 인수 받기
+                Write("input : ");
+                number2 = ReadLine();
+
+                //스위치문으로 계산진행
+                switch(type)
+                {
+                    case "+":
+                        result = float.Parse(number1) + float.Parse(number2);
+                        break;
+                    case "*":
+                        result = float.Parse(number1) * float.Parse(number2);
+                        break;
+                    case "-":
+                        result = float.Parse(number1) - float.Parse(number2);
+                        break;
+                    case "/":
+                        result = float.Parse(number1) / float.Parse(number2);
+                        break;
+
+                    default:
+                        //잘못된 경우 에러라고 알려줌.
+                        Write("error");
+                        break;
+                }
+
+                //3. 결과를 보여준다.
+                WriteLine("result : " + result.ToString() + "\n\n");
+
+
+                //4. 계속할지 물어봄.
+                Write("continue?(y/n) : ");
+                answer = ReadLine();
+
+                WriteLine();
+                WriteLine();
+
+                if(answer == "y" || answer == "Y")
+                {
+                    //계속할 경우 continue
+                    number1 = result.ToString();
+                    continue;
+                }
+                else if(answer == "n" || answer == "N")
+                {
+                    //아닌경우 종료
+                    break;
+                }
+                else
+                {
+                    //그 외 인경우엔 에러를 나타냄
+                    Write("this is Error");
+                    return;
+                }
+            }
+
+            //5. 종료함
+            Write("Finish");
+
+            ReadKey();
+        }
+    }
+}

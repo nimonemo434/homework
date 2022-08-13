@@ -1,0 +1,3 @@
+
+
+https://github.com/727207e/CSharpClass/blob/main/SimpleGame/Bulls%20and%20Cows/Program.cs

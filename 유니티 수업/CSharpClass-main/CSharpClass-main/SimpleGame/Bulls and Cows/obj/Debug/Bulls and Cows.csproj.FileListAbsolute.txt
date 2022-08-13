@@ -1,0 +1,14 @@
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\Bulls and Cows\bin\Debug\Bulls and Cows.exe.config
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\Bulls and Cows\bin\Debug\Bulls and Cows.exe
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\Bulls and Cows\bin\Debug\Bulls and Cows.pdb
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\Bulls and Cows\obj\Debug\Bulls and Cows.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\Bulls and Cows\obj\Debug\Bulls and Cows.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\Bulls and Cows\obj\Debug\Bulls and Cows.exe
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\Bulls and Cows\obj\Debug\Bulls and Cows.pdb
+D:\Unity\UnityFile\CSharpClass\SimpleGame\Bulls and Cows\bin\Debug\Bulls and Cows.exe.config
+D:\Unity\UnityFile\CSharpClass\SimpleGame\Bulls and Cows\bin\Debug\Bulls and Cows.exe
+D:\Unity\UnityFile\CSharpClass\SimpleGame\Bulls and Cows\bin\Debug\Bulls and Cows.pdb
+D:\Unity\UnityFile\CSharpClass\SimpleGame\Bulls and Cows\obj\Debug\Bulls and Cows.csproj.AssemblyReference.cache
+D:\Unity\UnityFile\CSharpClass\SimpleGame\Bulls and Cows\obj\Debug\Bulls and Cows.csproj.CoreCompileInputs.cache
+D:\Unity\UnityFile\CSharpClass\SimpleGame\Bulls and Cows\obj\Debug\Bulls and Cows.exe
+D:\Unity\UnityFile\CSharpClass\SimpleGame\Bulls and Cows\obj\Debug\Bulls and Cows.pdb

@@ -1,0 +1,87 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using static System.Console;
+
+namespace test111
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            for(int one = 0; one < 5; one++)
+            {
+                for(int one_1 = 0; one_1 < one+1; one_1++)
+                {
+                    Write("*");
+                }
+                WriteLine("");
+            }
+
+            WriteLine("");
+            WriteLine("");
+
+            for(int two = 0; two < 5; two++)
+            {
+                for(int two_1 = 0; two_1 < 4 - two; two_1++)
+                {
+                    Write(" ");
+                }
+                for (int two_2 = 0; two_2 < two + 1; two_2++)
+                {
+                    Write("*");
+                }
+                WriteLine("");
+            }
+
+            WriteLine("");
+            WriteLine("");
+
+            for (int three = 0; three < 5; three++)
+            {
+                for (int three_1 = 0; three_1 < 4 - three; three_1++)
+                {
+                    Write(" ");
+                }
+                for (int three_2 = 0; three_2 < (three * 2) + 1; three_2++)
+                {
+                    Write("*");
+                }
+                WriteLine("");
+            }
+
+            WriteLine("");
+            WriteLine("");
+
+            for (int four = 0; four < 5; four++)
+            {
+                for (int four_1 = 0; four_1 < 4 - four; four_1++)
+                {
+                    Write(" ");
+                }
+                for (int four_2 = 0; four_2 < (four * 2) + 1; four_2++)
+                {
+                    Write("*");
+                }
+                WriteLine("");
+            }
+            for(int four_3 = 0; four_3 < 4; four_3++)
+            {
+                for (int four_4 = 0; four_4 < four_3 + 1; four_4++)
+                {
+                    Write(" ");
+                }
+                for (int four_5 = 0; four_5 < 7 - (four_3 * 2); four_5++)
+                {
+                    Write("*");
+                }
+                WriteLine("");
+            }
+
+            ReadKey();
+        }
+    }
+}

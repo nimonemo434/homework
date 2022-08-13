@@ -1,0 +1,20 @@
+D:\19 ㅇㅁ\Unity\자판기\자판기\bin\Debug\자판기.exe.config
+D:\19 ㅇㅁ\Unity\자판기\자판기\bin\Debug\자판기.exe
+D:\19 ㅇㅁ\Unity\자판기\자판기\bin\Debug\자판기.pdb
+D:\19 ㅇㅁ\Unity\자판기\자판기\obj\Debug\자판기.csprojAssemblyReference.cache
+D:\19 ㅇㅁ\Unity\자판기\자판기\obj\Debug\자판기.csproj.CoreCompileInputs.cache
+D:\19 ㅇㅁ\Unity\자판기\자판기\obj\Debug\자판기.exe
+D:\19 ㅇㅁ\Unity\자판기\자판기\obj\Debug\자판기.pdb
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\자판기\자판기\bin\Debug\자판기.exe.config
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\자판기\자판기\bin\Debug\자판기.exe
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\자판기\자판기\bin\Debug\자판기.pdb
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\자판기\자판기\obj\Debug\자판기.csprojAssemblyReference.cache
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\자판기\자판기\obj\Debug\자판기.csproj.CoreCompileInputs.cache
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\자판기\자판기\obj\Debug\자판기.exe
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\자판기\자판기\obj\Debug\자판기.pdb
+C:\Users\potap\Desktop\Study\학교\Unity\C#\자판기\자판기\bin\Debug\자판기.exe.config
+C:\Users\potap\Desktop\Study\학교\Unity\C#\자판기\자판기\bin\Debug\자판기.exe
+C:\Users\potap\Desktop\Study\학교\Unity\C#\자판기\자판기\bin\Debug\자판기.pdb
+C:\Users\potap\Desktop\Study\학교\Unity\C#\자판기\자판기\obj\Debug\자판기.csproj.CoreCompileInputs.cache
+C:\Users\potap\Desktop\Study\학교\Unity\C#\자판기\자판기\obj\Debug\자판기.exe
+C:\Users\potap\Desktop\Study\학교\Unity\C#\자판기\자판기\obj\Debug\자판기.pdb

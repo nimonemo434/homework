@@ -1,0 +1,28 @@
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\구슬 게임\구슬 게임\bin\Debug\구슬 게임.exe.config
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\구슬 게임\구슬 게임\bin\Debug\구슬 게임.exe
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\구슬 게임\구슬 게임\bin\Debug\구슬 게임.pdb
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\구슬 게임\구슬 게임\obj\Debug\구슬 게임.csprojAssemblyReference.cache
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\구슬 게임\구슬 게임\obj\Debug\구슬 게임.csproj.CoreCompileInputs.cache
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\구슬 게임\구슬 게임\obj\Debug\구슬 게임.exe
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\구슬 게임\구슬 게임\obj\Debug\구슬 게임.pdb
+D:\19 ㅇㅁ\Unity\구슬 게임\구슬 게임\bin\Debug\구슬 게임.exe.config
+D:\19 ㅇㅁ\Unity\구슬 게임\구슬 게임\bin\Debug\구슬 게임.exe
+D:\19 ㅇㅁ\Unity\구슬 게임\구슬 게임\bin\Debug\구슬 게임.pdb
+D:\19 ㅇㅁ\Unity\구슬 게임\구슬 게임\obj\Debug\구슬 게임.csprojAssemblyReference.cache
+D:\19 ㅇㅁ\Unity\구슬 게임\구슬 게임\obj\Debug\구슬 게임.csproj.CoreCompileInputs.cache
+D:\19 ㅇㅁ\Unity\구슬 게임\구슬 게임\obj\Debug\구슬 게임.exe
+D:\19 ㅇㅁ\Unity\구슬 게임\구슬 게임\obj\Debug\구슬 게임.pdb
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\C#\구슬 게임\구슬 게임\bin\Debug\구슬 게임.exe.config
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\C#\구슬 게임\구슬 게임\bin\Debug\구슬 게임.exe
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\C#\구슬 게임\구슬 게임\bin\Debug\구슬 게임.pdb
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\C#\구슬 게임\구슬 게임\obj\Debug\구슬 게임.csprojAssemblyReference.cache
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\C#\구슬 게임\구슬 게임\obj\Debug\구슬 게임.csproj.CoreCompileInputs.cache
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\C#\구슬 게임\구슬 게임\obj\Debug\구슬 게임.exe
+C:\Users\potap\OneDrive\바탕 화면\과제\Unity\C#\구슬 게임\구슬 게임\obj\Debug\구슬 게임.pdb
+C:\Users\potap\Desktop\Study\학교\Unity\C#\구슬 게임\구슬 게임\bin\Debug\구슬 게임.exe.config
+C:\Users\potap\Desktop\Study\학교\Unity\C#\구슬 게임\구슬 게임\bin\Debug\구슬 게임.exe
+C:\Users\potap\Desktop\Study\학교\Unity\C#\구슬 게임\구슬 게임\bin\Debug\구슬 게임.pdb
+C:\Users\potap\Desktop\Study\학교\Unity\C#\구슬 게임\구슬 게임\obj\Debug\구슬 게임.csproj.AssemblyReference.cache
+C:\Users\potap\Desktop\Study\학교\Unity\C#\구슬 게임\구슬 게임\obj\Debug\구슬 게임.csproj.CoreCompileInputs.cache
+C:\Users\potap\Desktop\Study\학교\Unity\C#\구슬 게임\구슬 게임\obj\Debug\구슬 게임.exe
+C:\Users\potap\Desktop\Study\학교\Unity\C#\구슬 게임\구슬 게임\obj\Debug\구슬 게임.pdb

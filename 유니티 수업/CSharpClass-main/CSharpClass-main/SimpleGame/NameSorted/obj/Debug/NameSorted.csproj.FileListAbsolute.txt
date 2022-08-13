@@ -1,0 +1,7 @@
+D:\Unity\UnityFile\CSharpClass\SimpleGame\NameSorted\bin\Debug\NameSorted.exe.config
+D:\Unity\UnityFile\CSharpClass\SimpleGame\NameSorted\bin\Debug\NameSorted.exe
+D:\Unity\UnityFile\CSharpClass\SimpleGame\NameSorted\bin\Debug\NameSorted.pdb
+D:\Unity\UnityFile\CSharpClass\SimpleGame\NameSorted\obj\Debug\NameSorted.csproj.AssemblyReference.cache
+D:\Unity\UnityFile\CSharpClass\SimpleGame\NameSorted\obj\Debug\NameSorted.csproj.CoreCompileInputs.cache
+D:\Unity\UnityFile\CSharpClass\SimpleGame\NameSorted\obj\Debug\NameSorted.exe
+D:\Unity\UnityFile\CSharpClass\SimpleGame\NameSorted\obj\Debug\NameSorted.pdb

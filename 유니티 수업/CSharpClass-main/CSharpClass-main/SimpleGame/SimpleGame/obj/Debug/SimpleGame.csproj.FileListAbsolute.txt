@@ -1,0 +1,14 @@
+C:\Users\potap\Desktop\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe.config
+C:\Users\potap\Desktop\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe
+C:\Users\potap\Desktop\SimpleGame\SimpleGame\bin\Debug\SimpleGame.pdb
+C:\Users\potap\Desktop\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.AssemblyReference.cache
+C:\Users\potap\Desktop\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.CoreCompileInputs.cache
+C:\Users\potap\Desktop\SimpleGame\SimpleGame\obj\Debug\SimpleGame.exe
+C:\Users\potap\Desktop\SimpleGame\SimpleGame\obj\Debug\SimpleGame.pdb
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe.config
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\SimpleGame\bin\Debug\SimpleGame.pdb
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\SimpleGame\obj\Debug\SimpleGame.exe
+C:\Users\Dev\Desktop\Study\CsharpEssential\ConnectGit\CSharpClass\SimpleGame\SimpleGame\obj\Debug\SimpleGame.pdb
