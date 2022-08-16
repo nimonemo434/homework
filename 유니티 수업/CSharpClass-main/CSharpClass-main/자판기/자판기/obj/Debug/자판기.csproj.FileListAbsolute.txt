@@ -18,3 +18,11 @@ C:\Users\potap\Desktop\Study\학교\Unity\C#\자판기\자판기\bin\Debug\자�
 C:\Users\potap\Desktop\Study\학교\Unity\C#\자판기\자판기\obj\Debug\자판기.csproj.CoreCompileInputs.cache
 C:\Users\potap\Desktop\Study\학교\Unity\C#\자판기\자판기\obj\Debug\자판기.exe
 C:\Users\potap\Desktop\Study\학교\Unity\C#\자판기\자판기\obj\Debug\자판기.pdb
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\CSharpClass-main\CSharpClass-main\자판기\자판기\bin\Debug\자판기.exe.config
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\CSharpClass-main\CSharpClass-main\자판기\자판기\bin\Debug\자판기.exe
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\CSharpClass-main\CSharpClass-main\자판기\자판기\bin\Debug\자판기.pdb
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\CSharpClass-main\CSharpClass-main\자판기\자판기\obj\Debug\자판기.csproj.AssemblyReference.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\CSharpClass-main\CSharpClass-main\자판기\자판기\obj\Debug\자판기.csproj.SuggestedBindingRedirects.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\CSharpClass-main\CSharpClass-main\자판기\자판기\obj\Debug\자판기.csproj.CoreCompileInputs.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\CSharpClass-main\CSharpClass-main\자판기\자판기\obj\Debug\자판기.exe
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\CSharpClass-main\CSharpClass-main\자판기\자판기\obj\Debug\자판기.pdb
