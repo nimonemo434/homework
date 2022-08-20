@@ -1,8 +1,0 @@
-C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\숙제\22.08.15 homework\22.08.15 homework\bin\Debug\22.08.15 homework.exe.config
-C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\숙제\22.08.15 homework\22.08.15 homework\bin\Debug\22.08.15 homework.exe
-C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\숙제\22.08.15 homework\22.08.15 homework\bin\Debug\22.08.15 homework.pdb
-C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\숙제\22.08.15 homework\22.08.15 homework\obj\Debug\22.08.15 homework.csproj.AssemblyReference.cache
-C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\숙제\22.08.15 homework\22.08.15 homework\obj\Debug\22.08.15 homework.csproj.SuggestedBindingRedirects.cache
-C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\숙제\22.08.15 homework\22.08.15 homework\obj\Debug\22.08.15 homework.csproj.CoreCompileInputs.cache
-C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\숙제\22.08.15 homework\22.08.15 homework\obj\Debug\22.08.15 homework.exe
-C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\숙제\22.08.15 homework\22.08.15 homework\obj\Debug\22.08.15 homework.pdb

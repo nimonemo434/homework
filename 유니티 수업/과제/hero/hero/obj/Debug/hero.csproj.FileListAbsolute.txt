@@ -1,0 +1,16 @@
+C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\과제\hero\hero\bin\Debug\hero.exe.config
+C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\과제\hero\hero\bin\Debug\hero.exe
+C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\과제\hero\hero\bin\Debug\hero.pdb
+C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\과제\hero\hero\obj\Debug\hero.csproj.AssemblyReference.cache
+C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\과제\hero\hero\obj\Debug\hero.csproj.SuggestedBindingRedirects.cache
+C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\과제\hero\hero\obj\Debug\hero.csproj.CoreCompileInputs.cache
+C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\과제\hero\hero\obj\Debug\hero.exe
+C:\Users\awsed\OneDrive\바탕 화면\유니티 수업\과제\hero\hero\obj\Debug\hero.pdb
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\과제\hero\hero\bin\Debug\hero.exe.config
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\과제\hero\hero\bin\Debug\hero.exe
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\과제\hero\hero\bin\Debug\hero.pdb
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\과제\hero\hero\obj\Debug\hero.csproj.AssemblyReference.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\과제\hero\hero\obj\Debug\hero.csproj.SuggestedBindingRedirects.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\과제\hero\hero\obj\Debug\hero.csproj.CoreCompileInputs.cache
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\과제\hero\hero\obj\Debug\hero.exe
+C:\Users\awsed\OneDrive\바탕 화면\homework\유니티 수업\과제\hero\hero\obj\Debug\hero.pdb
